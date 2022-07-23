@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### NÃO QUERO COMPARTILHAR MINHA SENHA ###
+application.properties
